@@ -1,3 +1,5 @@
 # Pokedex with ReactJs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this repository comes from this [profile](https://github.com/Edgar-H).
+
+You can see the preview [here](https://pokedex-h.netlify.app/).
