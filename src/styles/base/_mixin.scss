@@ -1,0 +1,19 @@
+@mixin inputs {
+  border: none;
+  outline: none;
+  background-color: $bg-input;
+  border-radius: 4px;
+}
+
+@mixin error {
+  margin-top: 0.2rem;
+  color: #cc1313;
+  font-style: italic;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+@mixin back {
+  color: #333333;
+  font-size: 20px;
+}
